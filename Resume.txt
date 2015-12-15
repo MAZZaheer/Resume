@@ -1,0 +1,204 @@
+Mudasser  Zaheer
+5502 Pecan Hollow Dr.
+Missouri City, Texas 77459
+United States
+1 832 5359198
+mudasser.zaheer@gmail.com
+
+Career History
+
+Hewlett Packard Enterprise, HP Cloud   (01/2015 - Present)
+Houston, TX, Texas
+Senior Director, Product and Company-wide Adoption
+Leading Company-wide implementation of Open Source Cloud technologies for a Fortune 50 company with 200K+ employees and 7K+ internal developers.
+Scope of the program includes KVM (VMWare alternative), Openstack (IaaS), Cloud Foundry (PaaS), Docker and other Container ecosystems. Also in scope are introduction of transformational concepts like Cloud Native Development, DevOps, CI/CD and autonomic computing.
+Grassroots adoption strategies like developer evangelism, hackathons and POC projects etc.
+Alignment at the leadership level with partner organizations to ensure sponsorship of activities
+Add value to product lifecycle by helping define and validate product roadmaps from a broad range of POVs and by sharing tools and methods developed by practitioners of the products
+Job One, beta and early adoption for new features and releases
+Developing and telling the internal adoption story at Customer briefings and industry events.
+
+
+Hewlett Packard Enterprise, Enterprise Services   (01/2012 - 01/2015)
+Houston, TX, Texas
+Director Infrastructure Technology Outsourcing & Global Transformation Executive
+Simultaneously perform Executive (Director IT Outsourcing Delivery), Consultative/Critical Intervention (Global Transformation Executive) and Technical (Leader Global Transformation Tools, Methods & Architecture) roles.
+Directed initiative to incorporate HP’s Cloud Offerings into Global Transformation Practice. This included the design and deployment of the first Managed Private Cloud worldwide; the first Virtual Private Cloud cell in Iberia; and the migration of several large organizations including EDF (France Utility) and the Government of Cataluña from traditional Data Centers to Cloud.
+Chosen from 1,700+ contenders to showcase and present our innovations at Tech Con 2014.
+Led the development of the Data Center Migration Planning and Management methodology and toolkit that is the engine for the on-demand Factories that are spun up to execute massive scale migrations to Cloud like Deutsche Bank with 37,000 VMs.
+Architected tools, methods and best practices for the Discovery of all hardware, software and business application configuration items that collectively constitute a typical customer’s IT environment. Certified as the enterprise wide standard, they resulted in complete reduction of relevant revenue bleed when deployed.
+Worked with the Global Due Diligence practice to develop an automated Due Diligence application that has been implemented at 70+ pursuits valued at $8 Billion USD and resulted in risk mitigation of $100M+ USD.
+Created the CMO (Current Mode of Operation) Readiness Assessment service. It is a set of best practice activities that substantially de-risk both the Transition CMO takeover and transformation phases for IT Outsourcing customers. Minimum mitigating impact once completely rolled out is $10M USD / Year.
+Created a new service offering to help harden and improve technical solutions and their associated delivery plans and cost models for large pursuits with contract values in excess of $50M USD. Since solution gaps are one of the top root causes of red accounts (due to delays, penalties and lost goodwill), the adoption rate of the service has exceeded original projections with benefits estimated to exceed $65M USD / Year.
+Led development of the Cloud Assessment Toolkit. This is an industry first holistic solution by which data required to execute the outsourcing of customer Data Centers to cloud or traditional hosting facilities is collected into a purpose built data model, automatically assessed for completeness, validity and anomalies, and then made available to all stakeholders via a collaborative toolset for project planning, execution and governance. Data from the first 85 deployments of the Toolkit indicates an average ROI of 800% based on the ability to differentiate HPE from competitors during presales with a solution based on an objective data assessment and the ability to track project delivery based on an accurate, and shared view of the current and future IT Landscape.
+Awarded two patents for inventions related to Data Center Outsourcing and complex IT transformations.
+
+
+Hewlett Packard Enterprise, Global IT   (10/2010 - 01/2012)
+Houston, TX, Texas
+Strategist, Global High Availability & Disaster Recovery (HA/DR)
+Developed high level design for cloud based disaster recovery.
+Provided Cloud and AWS subject Matter Expertise to leadership in the early days of Cloud and IaaS.
+Developed a HA/DR Performance Forecasting system which automatically predicts performance of an IT Organization’s HA/DR framework across the corporate application portfolio and provides Operations teams with the data needed to conduct targeted Disaster recovery rehearsals instead of the traditionally disruptive recurring outage drills. With 1,850 business applications under HP-IT management, implementation of this system resulted in annual savings of 86 FTEs across IT and other business units.
+Built a quantifiable model (score-carding) for Application portfolio rationalization program.
+Supported migration of mission critical applications to the next generation business continuity platforms.
+Patented invention related to the optimization of High Availability and Disaster Recovery Rehearsals.
+Patented invention of design patterns that can impact availability and DR performance of an application.
+Developed the three year roadmap for Business Continuity.
+
+
+ANDROWAVE INC.   (11/2008 - 11/2011)
+Houston, Texas
+Co-Founder
+Established 2008, startup developing innovative mobile solutions for the iPhone and Android Platforms. Brand dissolved in 2011 due to acquisition.
+As Co-founder, my role was to Brainstorm and innovate new ideas in the mobile domain. Coordinate and oversee development of the ideas with teams in the USA and South East Asia.
+Architected the first H1N1 tracking application for any major mobile platform. The core technology was transferred under an exclusive license after the application was launched.
+Architected Vote America, an application that allowed single-click voting for television programming that requires audience participation. Licensed for major Programming including American Idol and Dancing with the Stars. Technology transfer agreement with VMIX Media Inc. to extend to other reality TV brands.
+Designed and developed SMS Search, a highly rated application that delivers search results and other information (stocks, flight status, calculations, price checks, translation services etc.) via SMS texts.
+Designed SMS Art / Text Monster, a top 10 paid communications application that allows the subscriber to send high quality greetings via SMS, MMS and tweets.
+Established first iOS developer meetup to improve the experience of developing and publishing applications to Apple’s iTunes marketplace.
+Advertising Servicing agreements with top AD agencies to serve location based and content relevant advertisements on Androwave Inc. applications.
+Selected by Orange (French Telecom Group) to be featured on the Orange Application Store.
+
+
+Snowflake Mobile   (02/2009 - 02/2011)
+Valencia, California
+Chief Architect, Senior Vice President of Operations
+Mobile Solutions Startup later acquired by a major media software publisher and NextWave Interactive Media.
+Primary visionary and architect of the product line and contributing to other critical aspects of the operations including R&D, Sales, Marketing, Partner Network, Investor Relations and reporting to the Board of Directors.
+Envisioned and architected the first platform agnostic mobile app IDE for iPhone and Android with launch revenues of $10 million in initial licensing and $6 million in ongoing subscription fees.
+Important innovator in mobile Advertising by introducing new Ad formats previously not available in Mobile Applications including Word, Splash, Embedded and Product Placement Ads.
+Designed technology to attach location based coupons to Ads and to control their redemption.
+Designed a Platform for tech savvy customers to customize their Enterprise mobile apps.
+Architected a Vertical Integration Platform for use by resellers in niche markets to offer mobile apps.
+Module for Ad Order Entry, Production, Fulfillment, Analytics and Social Network integration
+Patents on several technologies including the ability to attach audio clips to mobile advertisements.
+
+
+Neasi-Weber International   (06/2007 - 02/2011)
+Valencia, California
+CIO, SVP Systems & Technical Services
+Established 1977, oldest and largest supplier of CRM, ERP and R/M solutions to the Publishing Industry.
+Joined the company as a Software Engineer in 1996 and held several technical and leadership roles over the next 15 years.
+Key accomplishments include:
+industry-wide annual reduction of 500M+ sheets of paper with mobile solutions;
+Big-Data Products and Services that added $10M+ to annual revenue;
+offshore operations in India and Pakistan;
+PCI and PII compliance across portfolio;
+DevOps culture;
+CI/CD for 10X increase in agility;
+Source Code Management for 20M lines of code resulting in 18% drop in new issues and 11% productivity increase;
+REST API stack for all core functions;
+SOX Compliance solution;
+SaaS offering for flagship CRM, ERP and Business Intelligence products;
+
+
+E. A. Juffali & Bros.   (05/1992 - 05/2010)
+Jeddah, Makkah Saudi Arabia
+Emerging Technology Consultant
+Fortune X Middle East.
+Largest Privately held corporation in the region.
+Evaluate emerging technologies for the largest commercial enterprise in the Middle East from the perspective of internal adoption and equity investment.
+
+
+Neasi-Weber International   (09/2005 - 06/2007)
+Valencia, California
+Chief Architect, Director of Technical Services
+Architected new Big Data and compliance offerings while managing the IT infrastructure organization, offshore operations and all Engineering teams
+
+
+Neasi-Weber International   (02/2004 - 09/2005)
+Valencia, California
+Director of Systems
+Managed Technology infrastructure team; Provided DBA and Advanced R&D services to internal and external clients; established the corporate offshore operations;
+
+
+Neasi-Weber International   (09/2000 - 02/2004)
+Valencia, California
+Systems Manager
+Managed Technology infrastructure team, Enterprise DBAs, UNIX admins and systems programmers.
+
+
+Neasi-Weber International   (01/1999 - 09/2000)
+Valencia, California
+Enterprise Database Administrator and Architect
+Led a team of DBAs that provided Oracle Certified services to both internal and external clients.
+
+
+Neasi-Weber International   (06/1996 - 01/1999)
+Valencia, California
+Software Engineer
+Software development;
+Systems analysis & design;
+Oracle DBA;
+Sun engineer
+
+
+ACA Technology   (06/1996 - 12/1998)
+Houston, Texas
+Co-Founder
+Responsible for turnkey IT solutions at the top 50 law firms in the Gulf coast.
+Typical project included wired networks, Windows Clients & Servers, Imaging devices, Document management solutions, Time tracking and billing software, enterprise messaging, backup and recovery, remote management, Law related tools and services, 365x24x7 SLA, Business continuity planning and training.
+
+
+Houston Chronicle, Circulation Systems   (08/1995 - 06/1996)
+Houston, Texas
+Software Engineer
+Pilot emerging technologies in support of modernizing the legacy mainframe based circulation system that managed 5 Billion Online transactions for the third-largest newspaper in the US.
+
+
+Siemens AG, Healthcare Solutions   (06/1995 - 06/1996)
+Jeddah, Makkah Saudi Arabia
+Software Engineer
+Account Receivables System modernization for the Middle East Healthcare solutions division. This was a mission critical system that processed $2 Billion+ in transactions.
+
+Education:
+BAUER COLLEGE OF BUSINESS - UNIVERSITY OF HOUSTON   (1996)
+Bachelor of Business Administration, Management Information Systems
+
+
+Languages:
+Arabic
+English  (Fluent) 
+Hindi  (Fluent) 
+Punjabi  (Fluent) 
+Urdu  (Fluent) 
+
+
+Core Competencies:
+Business Continuity & Disaster Recovery planning
+Budgeting, Cost Management, P&L
+Cloud, Cloud Native Development
+Compliance (PCI etc.)
+Corporate Communications
+Creative Team Leadership
+CTO
+Data Center Migration
+Data Security (HA & DR)
+Demand Management & Project Prioritization
+DevOps and CI/CD
+Effective Decision Making & Risk Management
+Establishing Standards
+Information Management & Business Intelligence
+Infrastructure Management
+International Projects
+License Optimization
+Mobile Applications & Solutions
+New Product Launch
+Off shoring & Outsourcing
+Open Source & Creative Commons solutions
+Performance Measurement
+Product Management
+Program Management
+Sales Collateral & Support
+Software Development Life Cycle
+Steering Committee & PMO
+Strategic Planning
+Transition & Transformation
+Vendor Relations
+XaaS (Containers-as-a-Service, IaaS, PaaS)
+
+Additional Profiles:
+LinkedIn: www.linkedin.com/in/mudasserzaheer
+
+
